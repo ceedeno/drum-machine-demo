@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/drum-machine-demo/static/css/main.5684b860.css",
+    "main.js": "/drum-machine-demo/static/js/main.f3fbfb7d.js",
+    "static/js/787.328fbb5f.chunk.js": "/drum-machine-demo/static/js/787.328fbb5f.chunk.js",
+    "static/media/Rimshot.wav": "/drum-machine-demo/static/media/Rimshot.1aa65ef66584a62f6e4e.wav",
+    "static/media/Guitar-Fase-2.wav": "/drum-machine-demo/static/media/Guitar-Fase-2.f5547ce8e671314b42f3.wav",
+    "static/media/Cello-2.wav": "/drum-machine-demo/static/media/Cello-2.d382139d968bc4595820.wav",
+    "static/media/Cello.wav": "/drum-machine-demo/static/media/Cello.53f4cc989f4af5fe97a7.wav",
+    "static/media/Piano.wav": "/drum-machine-demo/static/media/Piano.7c97f73bdf37782dd084.wav",
+    "static/media/Guitar.wav": "/drum-machine-demo/static/media/Guitar.a7c935e78a95b3f1adfb.wav",
+    "static/media/Bass.wav": "/drum-machine-demo/static/media/Bass.3fbf9d1313f0366bb4c3.wav",
+    "static/media/Gong.wav": "/drum-machine-demo/static/media/Gong.54386d214e04d65299d3.wav",
+    "static/media/Piano-2.wav": "/drum-machine-demo/static/media/Piano-2.1ffe5e6f4b4bfc22c61f.wav",
+    "static/media/Snare-Drum.wav": "/drum-machine-demo/static/media/Snare-Drum.abaf92f86b0ff04a7857.wav",
+    "static/media/Flute-2.wav": "/drum-machine-demo/static/media/Flute-2.a6f792da07a5f73692da.wav",
+    "static/media/Flute.wav": "/drum-machine-demo/static/media/Flute.6c3f18efe1bb8f1de83c.wav",
+    "static/media/Organ-Bass.wav": "/drum-machine-demo/static/media/Organ-Bass.e91f060f2ea68ffa4ba5.wav",
+    "static/media/Bongo-drums.wav": "/drum-machine-demo/static/media/Bongo-drums.9090851c90ff1716ccc4.wav",
+    "static/media/Tablas.wav": "/drum-machine-demo/static/media/Tablas.c29ee2cfa9ae8b230be0.wav",
+    "static/media/Organ.wav": "/drum-machine-demo/static/media/Organ.ba3a910d9cc8ff52afa9.wav",
+    "static/media/Maracas.wav": "/drum-machine-demo/static/media/Maracas.3c5ac97ea77720eb0fe7.wav",
+    "static/media/Xylophone.wav": "/drum-machine-demo/static/media/Xylophone.59f86374bb0a3eb74d59.wav",
+    "index.html": "/drum-machine-demo/index.html",
+    "main.5684b860.css.map": "/drum-machine-demo/static/css/main.5684b860.css.map",
+    "main.f3fbfb7d.js.map": "/drum-machine-demo/static/js/main.f3fbfb7d.js.map",
+    "787.328fbb5f.chunk.js.map": "/drum-machine-demo/static/js/787.328fbb5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5684b860.css",
+    "static/js/main.f3fbfb7d.js"
+  ]
+}
